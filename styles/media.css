@@ -23,4 +23,8 @@
     img {
         display: none;
     }
+
+    footer {
+        flex-direction: row;
+    }
 }

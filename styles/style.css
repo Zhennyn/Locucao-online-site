@@ -18,6 +18,10 @@ header {
     flex-direction: column;
     line-height: 10px;
 }
+#titleVoz{
+    flex-direction: column;
+    line-height: 20px;
+}
 
 /*EU DEMOREI MUITO PRA DESCOBRIR ISSO*/
 li {
@@ -36,7 +40,7 @@ a:hover {
 }
 
 h1 {
-    font-weight: 200;
+    font-weight: 200px;
 }
 
 main {
@@ -90,7 +94,7 @@ form [type="submit"]:hover {
 }
 
 audio{
-    padding: 15px;
+    padding: 10px;
 }
 
 input {
@@ -100,4 +104,9 @@ input {
     border-radius: 20px;
     border: none;
     font-size: 15px;
+}
+
+footer{
+    position:absolute;
+    bottom: 10px;
 }

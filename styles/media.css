@@ -25,6 +25,6 @@
     }
 
     footer {
-        flex-direction: row;
+        display: none;
     }
 }

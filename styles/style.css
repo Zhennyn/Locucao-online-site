@@ -106,23 +106,6 @@ input {
     font-size: 15px;
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-}
-
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
-
-nav li {
-    margin: 0 10px;
+footer{
+    
 }

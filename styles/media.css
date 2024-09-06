@@ -24,8 +24,7 @@
         display: none;
     }
 
-    nav ul {
-        flex-direction: column;
+    footer {
+        display: none;
     }
-
 }

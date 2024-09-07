@@ -23,6 +23,12 @@ header {
     line-height: 20px;
 }
 
+.texto-sobre{
+    font-size: 25px;
+    line-height: 20px;
+    font-family: poppingsmedium;
+}
+
 /*EU DEMOREI MUITO PRA DESCOBRIR ISSO*/
 li {
     display: inline-block;
@@ -110,5 +116,5 @@ input {
 
 footer{
     padding: 20px;
-    text-align: center;
+    text-align: start;
 }

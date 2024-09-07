@@ -10,5 +10,6 @@ Responsividade: Utilização de media queries para ajustar o layout em diferente
 
 Recursos Externos:
 Fontes: A pasta fonts contém fontes customizadas importadas de outro projeto. O arquivo fonts.css é responsável por carregá-las.
+API: Teste em API formsubmit foi um sucesso incrementado e sujeito a mudanças de resposta a inscritos
 
 Gostaria de tirar alguams duvidas com o professor sobre o assunto caso veja esse readme

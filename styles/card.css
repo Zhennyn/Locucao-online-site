@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppingsmedium;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, #00ff00 0%, #00ffff 40%, #0000ff 60%, #ff0000 100%);
+}
+
+section{
+    padding: 45px;
+    background-color: rgb(34, 34, 34);
+    width: 500px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+
+header img{
+    width: 140px;
+    height: 140px;
+}
+
+header h3{
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+header p{
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 25px;
+}
+
+main a{
+    background: crimson;
+    padding: 15px 0;
+    text-decoration: none;
+    color: white;
+    border-radius: 3px;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    transition: all .5s ease in out;
+}
+
+main a:hover{
+    opacity: .85;
+}

@@ -6,7 +6,7 @@ Estrutura:
 
 Layout: Estrutura básica do layout, com foco em ser responsivo.
 Estilização: Estilos personalizados para elementos como botões, formulários e outros componentes.
-Responsividade: Utilização de media queries para ajustar o layout em diferentes tamanhos de tela. Observação: A caixa de nome e email ainda requer ajustes para um comportamento mais responsivo em telas menores.
+Responsividade: Utilização de media queries para ajustar o layout em diferentes tamanhos de tela. Observação: A caixa de nome e email foi ajustada para um comportamento mais responsivo em telas menores.
 
 Recursos Externos:
 Fontes: A pasta fonts contém fontes customizadas importadas de outro projeto. O arquivo fonts.css é responsável por carregá-las.

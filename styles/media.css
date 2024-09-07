@@ -29,6 +29,10 @@
         display: none;
     }
 
+    p{
+        align-self: center;
+    }
+
     footer p {
         margin: 0;
     }

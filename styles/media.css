@@ -11,6 +11,11 @@
         font-size: 38px;
     }
 
+    form[type="submit"] {
+        margin: 0 auto;
+        width: 70%;
+    }
+
     form {
         margin: 0 auto;
         width: 70%;

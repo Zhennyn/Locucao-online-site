@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to right, rgb(34, 34, 34), rgb(51, 51, 51));
+    background-image: linear-gradient(to bottom right, #333333 0%, #666666 40%, #999999 60%, #cccccc 100%);
     color: white;
     font-family: poppinsregular;
     max-width: 1500px;

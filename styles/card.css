@@ -9,7 +9,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: linear-gradient(to bottom right, #333333 0%, #666666 40%, #999999 60%, #cccccc 100%);
+    background-image: linear-gradient(to right, rgb(34, 34, 34)50%, rgb(51, 51, 51)100%);
 }
 
 section{

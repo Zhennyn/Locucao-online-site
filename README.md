@@ -1,7 +1,7 @@
 # Locução Online
 
 ## Descrição
-Este é o repositório do projeto "Locução Online", um site web que oferece serviços de locução profissional. O site foi desenvolvido utilizando HTML, CSS e JavaScript.
+Este é o repositório do projeto "Locução Online", um site web que oferece serviços de locução profissional. O site foi desenvolvido utilizando HTML e CSS .
 
 ## Objetivo
 O principal objetivo deste projeto é criar uma plataforma online intuitiva e atraente para conectar clientes com locutores profissionais. O site visa facilitar o processo de solicitação de serviços de locução e fornecer informações detalhadas sobre os serviços oferecidos e a equipe de locutores.

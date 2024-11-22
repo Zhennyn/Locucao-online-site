@@ -23,4 +23,4 @@ O principal objetivo deste projeto é criar uma plataforma online intuitiva e at
 ## Instruções de Instalação
 1. **Clonar o repositório:**
    ```bash
-   git clone https://[seu-repositório].git
+   git clone https://github.com/Zhennyn/Locucao-online-site.git
